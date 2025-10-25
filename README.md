@@ -115,20 +115,6 @@ Just open `index.html` in your favorite browser 🌐 and start playing!
 
 ---
 
-## 💡 Learning Objectives
-
-This project demonstrates:
-- **Recursive Functions** and their execution
-- **Call Stack Mechanics** in JavaScript
-- **Number System Conversion** algorithms
-- **DOM Content Manipulation** with JavaScript
-- **CSS Animation** and transition techniques
-- **Event Handling** and user input validation
-- **Responsive Web Design** principles
-- **Modern JavaScript** ES6+ features
-
----
-
 ## 🎯 Key JavaScript Concepts
 
 - **Recursive Function**: `decimalToBinary()` with base case
