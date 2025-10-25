@@ -11,7 +11,7 @@ Welcome to **Decimal to Binary Converter** — an interactive educational tool t
 **Complete Your Certificate:**
 - ✅ This project (Decimal to Binary Converter) fulfills one requirement
 
-**Full Project Suite:** [25+ hands-on projects from Pyramid Generator to Final Certification Projects](https://github.com/your-username/JavaScript-Algorithms-and-Data-Structures)
+**Full Project Suite:** [25+ hands-on projects from Pyramid Generator to Final Certification Projects](https://github.com/acheronx0577/JavaScript-Algorithms-and-Data-Structures)
 - 🎓 Complete all projects to earn your certification
 
 This repository contains the complete portfolio of projects needed to demonstrate JavaScript proficiency and earn the freeCodeCamp certificate.
