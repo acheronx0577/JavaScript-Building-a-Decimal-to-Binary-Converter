@@ -68,12 +68,12 @@ Live Demo: https://your-username.github.io/decimal-to-binary-converter
 
 ### 1️⃣ Clone this repo
 ```
-git clone git@github.com:acheronx0577/JavaScript-Building-a-ToDo-App.git
+git clone git@github.com:acheronx0577/JavaScript-Building-a-Decimal-to-Binary-Converter.git
 ```
 
 ### 2️⃣ Open the project folder
 ```
-cd JavaScript-Building-a-ToDo-App
+cd JavaScript-Building-a-Decimal-to-Binary-Converter
 ```
 
 ### 3️⃣ Run the file
