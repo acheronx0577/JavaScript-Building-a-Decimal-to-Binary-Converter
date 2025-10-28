@@ -26,61 +26,6 @@ Live Demo: https://acheronx0577.github.io/JavaScript-Building-a-Decimal-to-Binar
 
 ---
 
-## ✅ Features
-
-1. **🔢 Number Conversion**
-   - Convert decimal numbers to binary representation
-   - Support for numbers 0 and above
-   - Real-time conversion with instant results
-   - Clean, readable binary output
-
-2. **🎬 Visual Call Stack Animation**
-   - Step-by-step visualization of recursive conversion process
-   - Animated stack frames showing function calls
-   - Educational explanations for each conversion step
-   - Interactive demonstration for input value 5
-
-3. **🎨 Modern UI/UX**
-   - Dark theme with gradient accents
-   - Responsive design for all devices
-   - Smooth animations and transitions
-   - Clean, professional interface
-
-4. **⌨️ User Experience**
-   - Intuitive input validation
-   - Keyboard support (Enter key)
-   - Clear error messages
-   - Mobile-optimized layout
-
----
-
-## 🧩 Project Files
-
-| File | Description |
-|------|-------------|
-| `index.html` | Application structure and semantic markup |
-| `script.js` | Conversion logic and animation system ⚙️ |
-| `styles.css` | Modern styling with CSS variables 🎨 |
-
----
-
-## 🧰 Installation & Usage
-
-### 1️⃣ Clone this repo
-```
-git clone git@github.com:acheronx0577/JavaScript-Building-a-Decimal-to-Binary-Converter.git
-```
-
-### 2️⃣ Open the project folder
-```
-cd JavaScript-Building-a-Decimal-to-Binary-Converter
-```
-
-### 3️⃣ Run the file
-Just open `index.html` in your favorite browser 🌐 and start playing!
-
----
-
 ## 🎮 How to Use
 
 ### Basic Conversion:
@@ -102,16 +47,25 @@ Just open `index.html` in your favorite browser 🌐 and start playing!
 
 ---
 
-## 🛠️ Technical Features
+## 🧩 Project Files
 
-- **Recursive Algorithm** for binary conversion
-- **DOM Manipulation** for dynamic content updates
-- **CSS Animations** for smooth visual effects
-- **Event Listeners** for interactive functionality
-- **setTimeout Management** for sequenced animations
-- **CSS Grid & Flexbox** for responsive layouts
-- **CSS Custom Properties** for consistent theming
-- **Form Validation** for data integrity
+| File | Description |
+|------|-------------|
+| `index.html` | Application structure and semantic markup |
+| `script.js` | Conversion logic and animation system ⚙️ |
+| `styles.css` | Modern styling with CSS variables 🎨 |
+
+---
+
+## 🧰 Installation & Usage
+
+### 1️⃣ Clone this repo
+```
+git clone git@github.com:acheronx0577/JavaScript-Building-a-Decimal-to-Binary-Converter.git
+```
+
+### 2️⃣ Run the file
+Just open `index.html` in your favorite browser 🌐 and start playing!
 
 ---
 
@@ -123,18 +77,6 @@ Just open `index.html` in your favorite browser 🌐 and start playing!
 - **Event Handling**: `addEventListener()` for click and keydown
 - **Input Validation**: `parseInt()`, `isNaN()`, conditional checks
 - **Array Methods**: `forEach()` for animation data processing
-
----
-
-## 📱 Responsive Design
-
-The application is fully responsive and works seamlessly on:
-
-- **Desktop computers** (1200px+)
-- **Laptops** (992px - 1199px)
-- **Tablets** (768px - 991px)
-- **Mobile phones** (480px - 767px)
-- **Small mobile devices** (below 480px)
 
 ---
 
