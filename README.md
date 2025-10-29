@@ -47,16 +47,6 @@ Live Demo: https://acheronx0577.github.io/JavaScript-Building-a-Decimal-to-Binar
 
 ---
 
-## 🧩 Project Files
-
-| File | Description |
-|------|-------------|
-| `index.html` | Application structure and semantic markup |
-| `script.js` | Conversion logic and animation system ⚙️ |
-| `styles.css` | Modern styling with CSS variables 🎨 |
-
----
-
 ## 🧰 Installation & Usage
 
 ### 1️⃣ Clone this repo
