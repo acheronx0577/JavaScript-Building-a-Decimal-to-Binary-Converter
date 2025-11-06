@@ -20,7 +20,7 @@ This repository contains the complete portfolio of projects needed to demonstrat
 
 ## 📸 Application Preview
 
-<img width="1408" height="782" alt="image" src="https://github.com/user-attachments/assets/14cc1aea-8840-4049-94b3-394b8cb83553" />
+<img width="1107" height="951" alt="image" src="https://github.com/user-attachments/assets/9d3cdbcc-0bc8-4960-b5d4-2073034f73de" />
 
 Live Demo: https://acheronx0577.github.io/JavaScript-Building-a-Decimal-to-Binary-Converter
 
